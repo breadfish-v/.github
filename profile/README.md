@@ -19,9 +19,9 @@ Der beste Server EUW.
 - [Qbox Project](https://www.qbox.re/) - Core and various resources
 - [Overextended](https://github.com/overextended) -  oxmysql, ox_lib, ox_doorlock, ox_inventory, ox_target
 - [Project Sloth](https://github.com/Project-Sloth) - ps_mdt, ps_dispatch, ps_adminmenu
-- [Project Error](https://github.com/project-error) - npwd
+- [Project Error](https://github.com/project-error) - npwd, pefcl
 - [iLLeniumStudios](https://github.com/iLLeniumStudios) - illenium-appearance
-- [Renewed-Scripts](https://github.com/Renewed-Scripts) - Banking, Lib, Weaponscarry, Weathersync
+- [Renewed-Scripts](https://github.com/Renewed-Scripts) - Lib, Weathersync
 - [CodineDev](https://github.com/CodineDev/) - cdn_fuel
 
 ## Streamed assets by
